@@ -21,7 +21,7 @@ This repository contains a standalone Java application that uses Swing for rende
 TicTacToe/
 ├─ src/
 │  └─ TicTacToe.java        # Main Java source (Swing GUI and game logic)
-├─ out/production/          # Compiled class artifacts (IDE build output)
+├─ out/production/TicTacToe/          # Compiled class artifacts (IDE build output)
 │  └─ TicTacToe.class
 ├─ .idea/                   # IDE project files (IntelliJ IDEA metadata)
 └─ TicTacToe.iml            # IntelliJ module file
